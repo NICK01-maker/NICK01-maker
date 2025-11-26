@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Yannick!
 
-I am a Network Engineer aspirant currently diving deep into Cisco technologies.
+I am a aspiring Network Engineer, currently diving deep into Cisco technologies.
 
-- 🔭 I’m currently working on **CCNA Certification**
-- 🌱 I’m learning **Network Topology, VLSM, and Static Routing**
-- ⚡ Fun fact: I love optimizing IP addresses!
-- 📫 How to reach me: https://www.linkedin.com/in/yan-nick-dunia-b34318221/
+- 🔭 I’m currently preparing for **CCNA Certification**
+- 🌱 I’m learning **Network Topology, VLSM, Static Routing and more Cisco technologies**
+- ⚡ Fun fact: I enjoy optimizing IP addresses and network topologies… and I’m a big anime fan!
+- 📫 How to reach me: www.linkedin.com/in/yannick-dunia
